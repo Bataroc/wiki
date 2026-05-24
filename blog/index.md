@@ -1,8 +1,16 @@
 ## 2026年
 
+### 5月
+
+* 2026.05.18 [Jouleverse CGC会议纪要（2026.05.10）](2026/202605/2026-05-18-CGC20260510-meeting-minutes.md)
+* 2026.05.22 [懒惰的艺术：用 Claude Code 自动化维护 Jouleverse 节点](2026/202605/Automating-Jouleverse-with-Claude.md)
+
 ### 4月
 
 * 2026.04.02 [Jouleverse CGC会议纪要（2026.03.29）](2026/202604/2026-04-02-CGC20260329-meeting-minutes.md)
+* 2026.04.17 [Jouleverse CGC会议纪要（2026.04.12）](2026/202604/2026-04-17-CGC20260412-meeting-minutes.md)
+* 2026.04.24 [Jouleverse CGC会议纪要（2026.04.19）](2026/202604/2026-04-24-CGC20260419-meeting-minutes.md)
+* 2026.04.29 [Jouleverse CGC会议纪要（2026.04.26）](2026/202604/2026-04-29-CGC20260426-meeting-minutes.md)
 
 ### 3月
 
